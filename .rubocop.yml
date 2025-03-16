@@ -1,0 +1,12 @@
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Lint/RedundantCopDisableDirective:
+  Enabled: false
+
+Style/DoubleCopDisableDirective:
+  Enabled: false
+
+Lint/MissingCopEnableDirective:
+  Enabled: false
